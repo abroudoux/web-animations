@@ -25,13 +25,10 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
-    "gh-pages": "^5.0.0",
     "prettier": "^3.2.5",
     "tailwindcss": "^3.4.3"
   },
   "dependencies": {
-    "@dicebear/collection": "^8.0.1",
-    "@dicebear/core": "^8.0.1",
     "@radix-ui/react-dropdown-menu": "^2.0.6",
     "@radix-ui/react-slot": "^1.0.2",
     "@radix-ui/react-toast": "^1.1.5",
